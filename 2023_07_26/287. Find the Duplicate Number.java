@@ -1,3 +1,7 @@
+//287. Find the Duplicate Number
+
+//https://leetcode.com/problems/find-the-duplicate-number/
+
 public class Solution {
     public int findDuplicate(int[] nums) {
         Arrays.sort(nums);
